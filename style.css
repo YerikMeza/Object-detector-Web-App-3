@@ -1,0 +1,49 @@
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+margin-bottom: 60px;
+}
+
+.Room {
+    font-size: 25px;
+    border-radius: 20px;
+    width: 350px;
+}
+
+.Fruit {
+    font-size: 25px;
+    border-radius: 20px;
+    width: 350px;
+}
+
+.Desk {
+    font-size: 25px;
+    border-radius: 20px;
+    width: 350px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+    background-color: steelblue;
+    line-height: 2.5;
+    text-align: center;
+}
+
+canvas {
+    border: 4px solid steelblue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px skyblue;
+}
